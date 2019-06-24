@@ -1,5 +1,4 @@
 # Exploring-Weather-Trends
-
 The first project in Udacity Data Analyst Nanodegree Program
 
 ## Summary
