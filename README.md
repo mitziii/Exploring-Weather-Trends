@@ -9,6 +9,7 @@ In this project, I have analysed local and global temperature data and compare t
 ## The tools used in this project
 
   SQL
+  
   Excel
 
 ## Extract the data from the database with SQL
